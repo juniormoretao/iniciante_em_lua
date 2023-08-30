@@ -15,6 +15,7 @@ names[ID_ZOMBIE] = "Zumbi"
 names[ID_ENDERMAN] = "Enderman"
 names[ID_PIGMAN] = "Pigman"
 
+--Cores
 local colors = {}
 colors[ID_CREEPER] = "Verde"
 colors[ID_ZOMBIE] = "Verde"
