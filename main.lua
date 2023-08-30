@@ -3,7 +3,7 @@ os.execute('chcp 65001')
 
 -- 
 local function sayHello()
-    print('Olá Zé oreia')
+    print('Olá Adão')
 
 end
 --função para dividir km em milhas
@@ -17,7 +17,7 @@ end
 sayHello()
 local kpm = 50
 local mph = convertKilometersToMiles(kpm)
-print('O vento ta a ' .. mph ..  " Milhas Por Hora" )
+print('O vento esta a ' .. mph ..  " Milhas Por Hora" )
 
 
 local function sayHello (name)
@@ -25,7 +25,7 @@ local function sayHello (name)
 -- variavel acima seria a mesma coisa que
 -- if name == nil then
 -- name = "desconhecido"
-    print("ola ".. name .. ", seja welcomido")
+    print("ola ".. name .. ", seja Bem Vindo")
 end
 
 
